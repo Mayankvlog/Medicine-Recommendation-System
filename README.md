@@ -1,4 +1,4 @@
-# Medicine-Recommendation-System-Personalized-Medical-Recommendation-System-with-Machine-Learning
+# Medicine-Recommendation-System
 
 The Infection Expectation Framework utilizes AI models to foresee potential illnesses in light
 of a bunch of client entered side effects. It utilizes a SVC model (Support Vector Classifier) 
